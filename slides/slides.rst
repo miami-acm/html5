@@ -38,6 +38,8 @@ Javascript is an interpreted programming language that can be used by browsers t
 jQuery
 ======
 
+jQuery is a Javascript library for simplifying a lot of Javascript features. It's mostly used for creating smooth animations and creating AJAX requests simply. According to research by W3Techs, jQuery is used on over half of all sites across the Internet. 
+
 CSS
 ===
 

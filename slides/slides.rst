@@ -29,6 +29,12 @@ Overviw of HTML
 Javascript
 ==========
 
+Javascript is an interpreted programming language that can be used by browsers to create highly interactive realtime web pages. Some examples of Javascript applications:
+
+	- Google Drive
+	- Facebook Messaging
+	- Twitter's "New Tweets" button
+
 jQuery
 ======
 
